@@ -4,7 +4,7 @@ const func = () => {
   let y = 20;
 
   console.log(sum(x, y)); // 30
-  debugger;
+  // debugger;
   x = 20;
   y = 30;
 
